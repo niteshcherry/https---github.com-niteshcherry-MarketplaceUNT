@@ -26,7 +26,7 @@ npm start
 ```
 
 ## **Default User**
-ygandhi2@stevens.edu  
+ygandhi2@unt.edu  
 
 Default Password:  
 Aa!1234567
