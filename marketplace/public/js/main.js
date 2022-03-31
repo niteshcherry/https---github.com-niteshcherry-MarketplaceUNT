@@ -41,7 +41,7 @@ function search() {
                                 <span class="float-end price-hp" style="color:var(--stevensRed)">$${element.price}</span> 
                             </div>
                             <h5 class="card-title">${element.description}</h5>
-                            <div class="text-center my-4"> <a href="/item/getOne/${element._id}" onClick=getItem(event,'${element._id}') class="btn btn-warning">Check Item</a> </div>
+                            <div class="text-left my-4"> <a href="/item/getOne/${element._id}" onClick=getItem(event,'${element._id}') class="btn btn-warning">Check Item</a> </div>
                         </div>
                     </div>
                     </div>

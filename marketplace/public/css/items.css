@@ -124,7 +124,7 @@ h2 {
 .btn-warning {
     background: none var(--stevensRed);
     color: #ffffff;
-    fill: #ffffff;
+    fill: hwb(0 85% 11%);
     border: none;
     text-decoration: none;
     outline: 0;
